@@ -11,8 +11,8 @@
   AtliQ hardware has become one of the rapidly growing company in electronics goods, as they grew they face loss in USA, they tried to establish their presence by opening their own stores and they experienced huge  loss, this happened because they made decisions based on some surveys they conducted and their own intuitions. AtliQ leadership and stakeholders decided to incorporate data analytics team and make data driven   decision making.
 
 
-# Project Statement: 
-    AtliQ hardware as of now maintaining their business data in Excel files and there are so many excel files. So, it is hard to consolidate and not effective in generating insights. They asked data analytics team to provide data transparency to make accurate decisions and provide business insights 360 across Finance view, Sales view, Marketing view, Supply chain view, Executive view
+# Project Objective: 
+  AtliQ hardware as of now maintaining their business data in Excel files and there are so many excel files. So, it is hard to consolidate and not effective in generating insights. They asked data analytics team to provide data transparency to make accurate decisions and provide business insights 360 across Finance view, Sales view, Marketing view, Supply chain view, Executive view
 
 # Goal:
   Help AtliQ Hardwares leadership identify sales opportunities and underperforming regions in real-time.
