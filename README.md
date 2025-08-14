@@ -28,4 +28,6 @@
 
 # Impact:
   Faster data driven decision making driving 10% revenue acceleration and a 20% reduction in data-related expenses.
+
+Live dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNmYzMzA1MmItZWI0Ni00NTJkLTliNzUtNmIyNTI2MzEwOGE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
   
